@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e4ca671-322f-4efa-9f39-fa7d4f66d5f8" /># 🏦 Loan Approval Prediction System
+# 🏦 Loan Approval Prediction System
 
 This is a Machine Learning-based web application that predicts whether a loan applicant will be approved by a bank or not. The project is built using Python and Streamlit.
 
@@ -57,10 +57,13 @@ To ensure the app runs without errors, make sure your folder structure looks lik
  ┣ 📜 requirements.txt              <-- List of required libraries
  ┗ 📜 README.md                     <-- This file
 ```
-### Screenshots
+## Screenshots
+
 <img width="1920" height="1080" alt="Screenshot (378)" src="https://github.com/user-attachments/assets/b7b67c63-08f4-4934-8f4f-47d6a3c63527" />
+
 <img width="1920" height="1080" alt="Screenshot (379)" src="https://github.com/user-attachments/assets/201a4c03-7dca-4092-9846-b5322d81287f" />
-### Author 
+
+## Author 
 Kamlesh Pandey
 
 
